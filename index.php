@@ -1,18 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Little Closet</title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="Little Closet template">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
-<link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
-<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
-<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
-<link rel="stylesheet" type="text/css" href="styles/main_styles.css">
-<link rel="stylesheet" type="text/css" href="styles/responsive.css">
+	<?php include 'head.php'?>
 </head>
 <body>
 
@@ -23,7 +12,7 @@
 	<!-- Search -->
 	<div class="menu_search">
 		<form action="#" id="menu_search_form" class="menu_search_form">
-			<input type="text" class="search_input" placeholder="Search Item" required="required">
+			<input type="text" class="search_input" placeholder="Procurar..." required="required">
 			<button class="menu_search_button"><img src="images/search.png" alt=""></button>
 		</form>
 	</div>
@@ -34,15 +23,11 @@
 			<li><a href="#">Men</a></li>
 			<li><a href="#">Kids</a></li>
 			<li><a href="#">Home Deco</a></li>
-			<li><a href="#">Contact</a></li>
+			<li><a href="#">Contato</a></li>
 		</ul>
 	</div>
 	<!-- Contact Info -->
 	<div class="menu_contact">
-		<div class="menu_phone d-flex flex-row align-items-center justify-content-start">
-			<div><div><img src="images/phone.svg" alt="https://www.flaticon.com/authors/freepik"></div></div>
-			<div>+1 912-252-7350</div>
-		</div>
 		<div class="menu_social">
 			<ul class="menu_social_list d-flex flex-row align-items-start justify-content-start">
 				<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -348,19 +333,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 offset-lg-3">
-						<div class="section_title text-center">Popular on Little Closet</div>
-					</div>
-				</div>
-				<div class="row page_nav_row">
-					<div class="col">
-						<div class="page_nav">
-							<ul class="d-flex flex-row align-items-start justify-content-center">
-								<li class="active"><a href="category.html">Women</a></li>
-								<li><a href="category.html">Men</a></li>
-								<li><a href="category.html">Kids</a></li>
-								<li><a href="category.html">Home Deco</a></li>
-							</ul>
-						</div>
+						<div class="section_title text-center">Em destaque</div>
 					</div>
 				</div>
 				<div class="row products_row">
@@ -671,7 +644,7 @@
 			</div>
 		</div>
 
-		
+	<?php include 'head.php'?>	
 	</div>
 		
 </div>
