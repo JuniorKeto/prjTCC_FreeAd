@@ -1,6 +1,6 @@
 <!-- Footer -->
 
-		<footer class="footer">
+		<footer style="margin-top: 50px;" class="footer">
 			<div class="footer_content">
 				<div class="container">
 					<div class="row">
@@ -12,7 +12,7 @@
 									<a href="#">
 										<div class="d-flex flex-row align-items-center justify-content-start">
 											<div class="footer_logo_icon"><img src="images/logo_2.png" alt=""></div>
-											<div>Little Closet</div>
+											<div>Free Ad</div>
 										</div>
 									</a>		
 								</div>
@@ -25,22 +25,19 @@
 						<!-- Footer Links -->
 						<div class="col-lg-4 footer_col">
 							<div class="footer_menu">
-								<div class="footer_title">Support</div>
+								<div class="footer_title">Suporte</div>
 								<ul class="footer_list">
 									<li>
-										<a href="#"><div>Customer Service<div class="footer_tag_1">online now</div></div></a>
+										<a href="#"><div>SAC<div class="footer_tag_1">online agora</div></div></a>
 									</li>
 									<li>
-										<a href="#"><div>Return Policy</div></a>
+										<a href="#"><div>Políticas de uso</div></a>
 									</li>
 									<li>
-										<a href="#"><div>Size Guide<div class="footer_tag_2">recommended</div></div></a>
+										<a href="#"><div>Termos e condições</div></a>
 									</li>
 									<li>
-										<a href="#"><div>Terms and Conditions</div></a>
-									</li>
-									<li>
-										<a href="#"><div>Contact</div></a>
+										<a href="#"><div>Contato</div></a>
 									</li>
 								</ul>
 							</div>
@@ -49,15 +46,15 @@
 						<!-- Footer Contact -->
 						<div class="col-lg-4 footer_col">
 							<div class="footer_contact">
-								<div class="footer_title">Stay in Touch</div>
+								<div class="footer_title">Fique por dentro</div>
 								<div class="newsletter">
 									<form action="#" id="newsletter_form" class="newsletter_form">
-										<input type="email" class="newsletter_input" placeholder="Subscribe to our Newsletter" required="required">
+										<input type="email" class="newsletter_input" placeholder="Assine nossa newsletter" required="required">
 										<button class="newsletter_button">+</button>
 									</form>
 								</div>
 								<div class="footer_social">
-									<div class="footer_title">Social</div>
+									<div class="footer_title">Redes Sociais</div>
 									<ul class="footer_social_list d-flex flex-row align-items-start justify-content-start">
 										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 										<li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
