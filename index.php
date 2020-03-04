@@ -143,7 +143,7 @@
 																<div class="product_info d-flex flex-row align-items-start justify-content-start">
 																	<div>
 																		<div>
-																			<div class="product_name"><a href="product.html">Cool Clothing with Brown Stripes</a></div>
+																			<div class="product_name"><a href="product.html">Eu vou criar sua logomarca ou melhora-la.</a></div>
 																			<div class="product_category">In <a href="category.html">Category</a></div>
 																		</div>
 																	</div>
@@ -341,28 +341,18 @@
 					<!-- Product -->
 					<div class="col-xl-4 col-md-6">
 						<div class="product">
-							<div class="product_image"><img src="images/product_1.jpg" alt=""></div>
+							<div class="product_image"><img src="images/product_1.png" alt=""></div>
 							<div class="product_content">
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Cool Clothing with Brown Stripes</a></div>
-											<div class="product_category">In <a href="category.html">Category</a></div>
+											<div class="product_name"><a href="product.html">Eu vou ajudar na modelagem do...</a></div>
+											<div class="product_category">Em <a href="category.html">Programação</a></div>
 										</div>
 									</div>
 									<div class="ml-auto text-right">
 										<div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
-										<div class="product_price text-right">$3<span>.99</span></div>
-									</div>
-								</div>
-								<div class="product_buttons">
-									<div class="text-right d-flex flex-row align-items-start justify-content-start">
-										<div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/heart_2.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
-										<div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/cart.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
+										<div class="product_price text-right">R$15<span>.00</span></div>
 									</div>
 								</div>
 							</div>
@@ -372,28 +362,18 @@
 					<!-- Product -->
 					<div class="col-xl-4 col-md-6">
 						<div class="product">
-							<div class="product_image"><img src="images/product_2.jpg" alt=""></div>
+							<div class="product_image"><img src="images/product_2.png" alt=""></div>
 							<div class="product_content">
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Cool Clothing with Brown Stripes</a></div>
-											<div class="product_category">In <a href="category.html">Category</a></div>
+											<div class="product_name"><a href="product.html">Eu vou editar um vídeo para você</a></div>
+											<div class="product_category">Em <a href="category.html">Vídeo e animação</a></div>
 										</div>
 									</div>
 									<div class="ml-auto text-right">
 										<div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
-										<div class="product_price text-right">$3<span>.99</span></div>
-									</div>
-								</div>
-								<div class="product_buttons">
-									<div class="text-right d-flex flex-row align-items-start justify-content-start">
-										<div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/heart_2.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
-										<div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/cart.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
+										<div class="product_price text-right">R$20<span>.00</span></div>
 									</div>
 								</div>
 							</div>
@@ -403,28 +383,18 @@
 					<!-- Product -->
 					<div class="col-xl-4 col-md-6">
 						<div class="product">
-							<div class="product_image"><img src="images/product_3.jpg" alt=""></div>
+							<div class="product_image"><img src="images/product_3.png" alt=""></div>
 							<div class="product_content">
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Cool Clothing with Brown Stripes</a></div>
-											<div class="product_category">In <a href="category.html">Category</a></div>
+											<div class="product_name"><a href="product.html">Eu vou gravar o seu audiobook</a></div>
+											<div class="product_category">Em <a href="category.html">Musica e áudio</a></div>
 										</div>
 									</div>
 									<div class="ml-auto text-right">
 										<div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
-										<div class="product_price text-right">$3<span>.99</span></div>
-									</div>
-								</div>
-								<div class="product_buttons">
-									<div class="text-right d-flex flex-row align-items-start justify-content-start">
-										<div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/heart_2.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
-										<div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/cart.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
+										<div class="product_price text-right">R$20<span>.00</span></div>
 									</div>
 								</div>
 							</div>
@@ -434,28 +404,18 @@
 					<!-- Product -->
 					<div class="col-xl-4 col-md-6">
 						<div class="product">
-							<div class="product_image"><img src="images/product_4.jpg" alt=""></div>
+							<div class="product_image"><img src="images/product_4.png" alt=""></div>
 							<div class="product_content">
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Cool Clothing with Brown Stripes</a></div>
-											<div class="product_category">In <a href="category.html">Category</a></div>
+											<div class="product_name"><a href="product.html">Eu vou criar sua logomarca ou...</a></div>
+											<div class="product_category">Em <a href="category.html">Design</a></div>
 										</div>
 									</div>
 									<div class="ml-auto text-right">
 										<div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
-										<div class="product_price text-right">$3<span>.99</span></div>
-									</div>
-								</div>
-								<div class="product_buttons">
-									<div class="text-right d-flex flex-row align-items-start justify-content-start">
-										<div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/heart_2.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
-										<div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/cart.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
+										<div class="product_price text-right">R$20<span>.00</span></div>
 									</div>
 								</div>
 							</div>
@@ -465,28 +425,18 @@
 					<!-- Product -->
 					<div class="col-xl-4 col-md-6">
 						<div class="product">
-							<div class="product_image"><img src="images/product_5.jpg" alt=""></div>
+							<div class="product_image"><img src="images/product_5.png" alt=""></div>
 							<div class="product_content">
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Cool Clothing with Brown Stripes</a></div>
-											<div class="product_category">In <a href="category.html">Category</a></div>
+											<div class="product_name"><a href="product.html">Eu vou ser sua assistente de e-...</a></div>
+											<div class="product_category">Em <a href="category.html">Negócios</a></div>
 										</div>
 									</div>
 									<div class="ml-auto text-right">
 										<div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
-										<div class="product_price text-right">$3<span>.99</span></div>
-									</div>
-								</div>
-								<div class="product_buttons">
-									<div class="text-right d-flex flex-row align-items-start justify-content-start">
-										<div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/heart_2.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
-										<div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/cart.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
+										<div class="product_price text-right">R$20<span>.00</span></div>
 									</div>
 								</div>
 							</div>
@@ -496,28 +446,18 @@
 					<!-- Product -->
 					<div class="col-xl-4 col-md-6">
 						<div class="product">
-							<div class="product_image"><img src="images/product_6.jpg" alt=""></div>
+							<div class="product_image"><img src="images/product_6.png" alt=""></div>
 							<div class="product_content">
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Cool Clothing with Brown Stripes</a></div>
-											<div class="product_category">In <a href="category.html">Category</a></div>
+											<div class="product_name"><a href="product.html">Eu vou te auxiliar no marketing...</a></div>
+											<div class="product_category">Em <a href="category.html">Marketing</a></div>
 										</div>
 									</div>
 									<div class="ml-auto text-right">
 										<div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
-										<div class="product_price text-right">$3<span>.99</span></div>
-									</div>
-								</div>
-								<div class="product_buttons">
-									<div class="text-right d-flex flex-row align-items-start justify-content-start">
-										<div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/heart_2.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
-										<div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
-											<div><div><img src="images/cart.svg" class="svg" alt=""><div>+</div></div></div>
-										</div>
+										<div class="product_price text-right">R$20<span>.00</span></div>
 									</div>
 								</div>
 							</div>
@@ -527,7 +467,7 @@
 				</div>
 				<div class="row load_more_row">
 					<div class="col">
-						<div class="button load_more ml-auto mr-auto"><a href="#">load more</a></div>
+						<div class="button load_more ml-auto mr-auto"><a href="#">Ver mais</a></div>
 					</div>
 				</div>
 			</div>
@@ -548,12 +488,12 @@
 									<div class="box_left">
 										<div class="box_image">
 											<a href="category.html">
-												<div class="background_image" style="background-image:url(images/box_1_img.jpg)"></div>
+												<div class="background_image" style="background-image:url(images/box_1_img.png)"></div>
 											</a>
 										</div>
 									</div>
 									<div class="box_right text-center">
-										<div class="box_title">Trendsetter Collection</div>
+										<div class="box_title">Design</div>
 									</div>
 								</div>
 							</div>
@@ -570,7 +510,7 @@
 										</div>
 									</div>
 									<div class="box_right text-center">
-										<div class="box_title">Popular Choice</div>
+										<div class="box_title">Marketing</div>
 									</div>
 								</div>
 							</div>
@@ -587,7 +527,7 @@
 										</div>
 									</div>
 									<div class="box_right text-center">
-										<div class="box_title">Popular Choice</div>
+										<div class="box_title">Vídeo e animação</div>
 									</div>
 								</div>
 							</div>
@@ -597,54 +537,7 @@
 				</div>
 			</div>
 		</div>
-
-		<!-- Features -->
-
-		<div class="features">
-			<div class="container">
-				<div class="row">
-					
-					<!-- Feature -->
-					<div class="col-lg-4 feature_col">
-						<div class="feature d-flex flex-row align-items-start justify-content-start">
-							<div class="feature_left">
-								<div class="feature_icon"><img src="images/icon_1.svg" alt=""></div>
-							</div>
-							<div class="feature_right d-flex flex-column align-items-start justify-content-center">
-								<div class="feature_title">Fast Secure Payments</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Feature -->
-					<div class="col-lg-4 feature_col">
-						<div class="feature d-flex flex-row align-items-start justify-content-start">
-							<div class="feature_left">
-								<div class="feature_icon ml-auto mr-auto"><img src="images/icon_2.svg" alt=""></div>
-							</div>
-							<div class="feature_right d-flex flex-column align-items-start justify-content-center">
-								<div class="feature_title">Premium Products</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Feature -->
-					<div class="col-lg-4 feature_col">
-						<div class="feature d-flex flex-row align-items-start justify-content-start">
-							<div class="feature_left">
-								<div class="feature_icon"><img src="images/icon_3.svg" alt=""></div>
-							</div>
-							<div class="feature_right d-flex flex-column align-items-start justify-content-center">
-								<div class="feature_title">Free Delivery</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-
-	<?php include 'head.php'?>	
+	<?php include 'footer.php'?>	
 	</div>
 		
 </div>
