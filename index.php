@@ -346,7 +346,7 @@
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Eu vou ajudar na modelagem do...</a></div>
+											<div class="product_name"><a href="product.php">Eu vou ajudar na modelagem do...</a></div>
 											<div class="product_category">Em <a href="category.html">Programação</a></div>
 										</div>
 									</div>
@@ -367,7 +367,7 @@
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Eu vou editar um vídeo para você</a></div>
+											<div class="product_name"><a href="product.php">Eu vou editar um vídeo para você</a></div>
 											<div class="product_category">Em <a href="category.html">Vídeo e animação</a></div>
 										</div>
 									</div>
@@ -388,7 +388,7 @@
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Eu vou gravar o seu audiobook</a></div>
+											<div class="product_name"><a href="product.php">Eu vou gravar o seu audiobook</a></div>
 											<div class="product_category">Em <a href="category.html">Musica e áudio</a></div>
 										</div>
 									</div>
@@ -409,7 +409,7 @@
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Eu vou criar sua logomarca ou...</a></div>
+											<div class="product_name"><a href="product.php">Eu vou criar sua logomarca ou...</a></div>
 											<div class="product_category">Em <a href="category.html">Design</a></div>
 										</div>
 									</div>
@@ -430,7 +430,7 @@
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Eu vou ser sua assistente de e-...</a></div>
+											<div class="product_name"><a href="product.php">Eu vou ser sua assistente de e-...</a></div>
 											<div class="product_category">Em <a href="category.html">Negócios</a></div>
 										</div>
 									</div>
@@ -451,7 +451,7 @@
 								<div class="product_info d-flex flex-row align-items-start justify-content-start">
 									<div>
 										<div>
-											<div class="product_name"><a href="product.html">Eu vou te auxiliar no marketing...</a></div>
+											<div class="product_name"><a href="product.php">Eu vou te auxiliar no marketing...</a></div>
 											<div class="product_category">Em <a href="category.html">Marketing</a></div>
 										</div>
 									</div>
