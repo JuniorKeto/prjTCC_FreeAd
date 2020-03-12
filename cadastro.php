@@ -1,3 +1,30 @@
+<?php
+  include 'conexao.php';
+
+  if (isset($_POST["email"]) && isset($_POST["login"]) && isset($_POST["senha"])) {
+    $email = $_POST["email"];
+    $login = $_POST["login"];
+    $senha = md5($_POST["senha"]);
+
+    $sql = "SELECT * FROM usuarios WHERE login LIKE '$login'";
+    $resultado = mysqli_query($conexao, $sql);
+
+    if(mysqli_num_rows($resultado) > 0){
+      echo "<script>alert('Login já existe. Tente outro!')</script>";
+    }
+    else{
+      $sql = "INSERT INTO usuarios VALUES(null,'$email', '$login', '$senha')";
+      if (mysqli_query($conexao, $sql)) {
+        echo "<script>alert('Cadastro realizado com sucesso!');
+        window.location.href = 'login.php'; </script>";
+      }
+      else{
+        die("Falha ao cadastrar");
+      }
+    }
+
+  }
+?>
 <!DOCTYPE html>
 <html>
 <head>
