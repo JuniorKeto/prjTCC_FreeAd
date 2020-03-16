@@ -9,7 +9,10 @@ $conexao = mysqli_connect($servidor, $usuario, $senha, $database);
 
 	 $sql = "CREATE TABLE usuarios (
 	        id INT AUTO_INCREMENT PRIMARY KEY,
+
+			nome VARCHAR(40),
 			email VARCHAR(50),
+      idade INT,
 			login VARCHAR(40),
 			senha VARCHAR(32)
 			)";
